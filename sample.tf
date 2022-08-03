@@ -1,0 +1,1 @@
+[{"resource": {"aws_emr": {"sdds": {"name": "uyyu", "release_label": "0.3", "service_role": "23", "bootstrap_action": {"name": "demo", "path": "/rec/"}}}}}, {"resource": {"aws_emrr": {"sddk": {"name": "uyyu", "release_label": "0.3", "service_role": "23", "bootstrap_action": {"name": "demo", "path": "/rec/"}}}}}]
