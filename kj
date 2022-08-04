@@ -1,0 +1,1 @@
+[{"resource": {"aws_emr_cluster": {"wer": {"name": "dsa", "release_label": "asd", "service_role": "ads", "bootstrap_action": {"args": "asd", "name": "dsa", "path": "asd"}}}}}]
