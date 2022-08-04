@@ -1,0 +1,1 @@
+[{"resource": {"aws_emr_cluster": {"we": {"name": "jl", "release_label": "jl", "service_role": "jl", "bootstrap_action": {"args": "jl", "name": "jl", "path": "jl"}}}}}]
