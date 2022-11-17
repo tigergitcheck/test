@@ -1,0 +1,46 @@
+[
+    {
+        "provider": {
+            "aws": {
+                "region": "ap-south-1"
+            }
+        }
+    },
+    {
+        "resource": {
+            "aws_ami": {
+                "jhd": {
+                    "name": "ehr",
+                    "image_location": "${var.rhe}",
+                    "kernel_id": "r4h4",
+                    "device_name": "${var.wrheh}",
+                    "virtual_name": "deveev"
+                }
+            }
+        }
+    },
+    {
+        "data": {
+            "aws_iam_policy_document": {
+                "swf": {
+                    "statement": {
+                        "actions": [
+                            "allow:*",
+                            "deny:*"
+                        ],
+                        "effect": "${var.wegw}",
+                        "not_actions": [
+                            "b"
+                        ],
+                        "principals": {
+                            "identifiers": "${var.sbbr}"
+                        },
+                        "resources": [
+                            "ww"
+                        ]
+                    }
+                }
+            }
+        }
+    }
+]
